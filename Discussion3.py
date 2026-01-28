@@ -56,6 +56,9 @@ def main():
 
     # you can create additional rectangle objects to 
     # test your code or learn more about how the class behaves
+
+    print("hello world")
+
     pass
 
 if __name__ == "__main__":

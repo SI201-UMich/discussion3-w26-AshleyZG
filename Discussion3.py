@@ -16,7 +16,6 @@ class Rectangle():
         return "A rectangle with width {} and height {}".format(self.width, self.height)
 
 
-
     # Create the "area_calculator" method
 
     # YOUR CODE HERE
